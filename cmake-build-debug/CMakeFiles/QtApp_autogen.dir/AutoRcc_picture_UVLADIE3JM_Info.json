@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "C:/Users/User/CLionProjects/Desctop_test/cmake-build-debug/QtApp_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/User/CLionProjects/Desctop_test/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/User/CLionProjects/Desctop_test/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/User/CLionProjects/Desctop_test",
+	"CMAKE_SOURCE_DIR" : "C:/Users/User/CLionProjects/Desctop_test",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "MinGW Makefiles",
+	"INCLUDE_DIR" : "C:/Users/User/CLionProjects/Desctop_test/cmake-build-debug/QtApp_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/User/CLionProjects/Desctop_test/src/picture/gommer.jpg",
+		"C:/Users/User/CLionProjects/Desctop_test/src/picture/bart.jpg",
+		"C:/Users/User/CLionProjects/Desctop_test/src/picture/user.png"
+	],
+	"LOCK_FILE" : "C:/Users/User/CLionProjects/Desctop_test/cmake-build-debug/CMakeFiles/QtApp_autogen.dir/AutoRcc_picture_UVLADIE3JM_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "picture" ],
+	"OUTPUT_CHECKSUM" : "UVLADIE3JM",
+	"OUTPUT_NAME" : "qrc_picture.cpp",
+	"RCC_EXECUTABLE" : "C:/msys64/mingw64/share/qt6/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/User/CLionProjects/Desctop_test/cmake-build-debug/CMakeFiles/QtApp_autogen.dir/AutoRcc_picture_UVLADIE3JM_Used.txt",
+	"SOURCE" : "C:/Users/User/CLionProjects/Desctop_test/src/picture.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
